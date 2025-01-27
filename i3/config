@@ -80,6 +80,7 @@ exec --no-startup-id feh --bg-scale /home/mateus/Downloads/wallpaperM.jpg
 # permitir opacidade
 exec --no-startup-id compton -b -f
 
+exec --no-startup-id xmodmap ~/.Xmodmap
 # i3 config file (v4)
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
